@@ -11,6 +11,7 @@ module.exports = {
       name: 'SassExtractVarsPlugin',
       type: 'umd',
     },
+    publicPath: '/dist/',
   },
   resolve: {
     extensions: ['.ts'],
